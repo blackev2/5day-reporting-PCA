@@ -4,3 +4,4 @@
 output/
 PCA_Plots/
 data/
+*.Rproj
