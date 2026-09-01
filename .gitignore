@@ -1,0 +1,6 @@
+.Rhistory
+.Rdata
+.Rproj.user/
+output/
+PCA_Plots/
+data/
