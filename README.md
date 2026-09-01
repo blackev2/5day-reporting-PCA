@@ -15,20 +15,12 @@ $ Rscript pca_plotly3.R GBE-Lot1 "C:/Users/blackev/Documents/pcaplot/" "GBE-Lot1
 
 ![Example PCA Analysis](/images/5DAY_AUTOMATION-PCA2.png)
 
-Terminal Output should appear similarly to : 
-
-[1] "Script Path: C:/Users/blackev/Documents/.."
-
-[1] "Input file path: C:/Users/blackev/Documents/../data/pca_plots/PCA_Plots/."
-
-[1] 31100    29
-
-[1] "Doses found."
-
-list()
-
-[1] TRUE
-
-[1] "An MS word document 'GBELot1_PCA_Plots_2026090113.docx' is created at 'C:/Users/blackev/Documents/pcaplot/PCA_Plots/'."
-
-[1] "A pdf document 'GBELot1_PCA_Plots_2026090113.pdf' is created at 'C:/Users/blackev/Documents/pcaplot/PCA_Plots/'."
+Terminal Output should appear similarly to : <br>
+[1] "Script Path: C:/Users/blackev/Documents/.."<br>
+[1] "Input file path: C:/Users/blackev/Documents/../data/pca_plots/PCA_Plots/."<br>
+[1] 31100    29<br>
+[1] "Doses found."<br>
+list()<br>
+[1] TRUE<br>
+[1] "An MS word document 'GBELot1_PCA_Plots_2026090113.docx' is created at 'C:/Users/blackev/Documents/pcaplot/PCA_Plots/'."<br>
+[1] "A pdf document 'GBELot1_PCA_Plots_2026090113.pdf' is created at 'C:/Users/blackev/Documents/pcaplot/PCA_Plots/'."<br>
